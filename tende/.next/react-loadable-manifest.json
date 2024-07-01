@@ -1,0 +1,20 @@
+{
+  "..\\src\\components\\Balance.tsx -> ./BalanceChart": {
+    "id": "./src/components/BalanceChart.tsx",
+    "files": [
+      "static/chunks/src_components_BalanceChart_tsx.js"
+    ]
+  },
+  "index.tsx -> ../src/components/AnalyticsChart": {
+    "id": "./src/components/AnalyticsChart.tsx",
+    "files": [
+      "static/chunks/src_components_AnalyticsChart_tsx.js"
+    ]
+  },
+  "index.tsx -> ../src/components/PriceChart": {
+    "id": "./src/components/PriceChart.tsx",
+    "files": [
+      "static/chunks/src_components_PriceChart_tsx.js"
+    ]
+  }
+}
